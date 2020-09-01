@@ -1,0 +1,14 @@
+
+ + -------------------- RESULTADO DEL PROBLEMA DUAL --------------------  +
+
+Resultado de gamma: [[0.62832731]]
+
+Resultado de los pesos w:
+             [[-0.05120543]]
+             [[0.1097106]]
+             [[0.26990184]]
+             [[0.1865091]]
+
+La accuracy de test es: 33.33333333333333%.
+La accuracy de training es: 66.66666666666666%.
+
